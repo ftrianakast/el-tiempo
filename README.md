@@ -10,7 +10,7 @@
 
 Clonarlo desde git usando
 
-    git clone https://github.com/ftrianakast/eltiempo/archive/master.zip 
+    git clone https://github.com/ftrianakast/eltiempo.git
 
 ## ¿Cómo utilizar el proyecto?
 
