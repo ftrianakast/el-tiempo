@@ -4,11 +4,13 @@
 
 1. Cómo un zip
 
+    https://github.com/ftrianakast/eltiempo/archive/master.zip
+
 2. Clonandolo
 
 Clonarlo desde git usando
 
-  git clone 
+    git clone https://github.com/ftrianakast/eltiempo/archive/master.zip 
 
 ## ¿Cómo utilizar el proyecto?
 
